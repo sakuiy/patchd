@@ -1,4 +1,5 @@
-# patchd
+# Baby Care Robot
+An AI agent built with Devin and Node.js for baby health monitoring and temperature tracking
 
 **Self-healing patch pipeline: from production crash to verified hot patch.**
 
